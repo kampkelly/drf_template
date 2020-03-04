@@ -1,0 +1,7 @@
+source venv/bin/activate
+
+export DATABASE_NAME=
+export DATABASE_USERNAME=
+export DATABASE_PASSWORD=
+
+export DJANGO_SETTINGS_MODULE=notesapp.settings

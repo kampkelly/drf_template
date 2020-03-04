@@ -1,0 +1,1 @@
+Template for starting django rest framework projects.
